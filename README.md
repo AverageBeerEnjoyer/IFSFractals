@@ -1,8 +1,10 @@
 # IFSFractals
 
-input file format:
+Небольшое приложение для отрисовки фракталов
 
-number-of-linear-transformations
+формат входного файла:
+
+[количество афинных преобразований]
 
 a11 a12 a21 a22 b1 b2
 
